@@ -1,0 +1,23 @@
+/** Everyday yes/no dilemmas for the AI to decide with a confidence score. */
+export const DECISION_PROMPTS = [
+  "A friend asks to borrow a significant amount of money with no repayment plan. Should you lend it?",
+  "You've been offered a dream job that requires moving across the country away from your family. Should you take it?",
+  "You find a wallet with cash and an ID. Should you keep the cash and return only the ID?",
+  "A startup offers you equity instead of a competitive salary. Should you accept?",
+  "Your partner wants a pet, but your lease forbids animals. Should you get one anyway?",
+  "You're slightly sick the morning of an important presentation. Should you call in sick?",
+  "A coworker takes credit for your idea in a meeting. Should you confront them publicly?",
+  "You can buy concert tickets from a scalper at triple face value for your favorite artist. Should you?",
+  "An AI tool can write most of your homework. Should you use it and submit the work as your own?",
+  "You've been vegetarian for years. At a dinner, the only option is meat. Should you eat it?",
+  "A stranger on the street asks you to watch their bag for five minutes. Should you agree?",
+  "Your company offers a promotion that doubles meetings but barely raises pay. Should you accept?",
+  "You accidentally learn a surprise party is being planned for you. Should you pretend you don't know?",
+  "A dating app match looks perfect on paper but your gut feels off. Should you go on the date?",
+  "You can skip a friend's wedding to attend a once-in-a-lifetime work conference. Should you skip it?",
+  "Someone leaves a harsh review of your small business that is partly unfair. Should you reply publicly?",
+  "You have one free evening. Should you spend it learning a new skill instead of relaxing?",
+  "A neighbor asks you to hide a package from their partner. Should you help?",
+  "You're 10 minutes late to an interview because of traffic. Should you still go?",
+  "A viral challenge is dangerous but could grow your following overnight. Should you do it?",
+] as const;
